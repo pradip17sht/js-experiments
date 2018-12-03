@@ -1,0 +1,10 @@
+body {
+  background-color:white;
+}
+
+.container{
+  width: 800px;
+  height: 800px;
+  position: relative;
+  background-color: black;
+}
