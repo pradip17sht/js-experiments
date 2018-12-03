@@ -1,0 +1,72 @@
+.top-div{
+    background: white;
+}
+
+.header-top{
+	background: #7dd9e8;
+	padding: 20px 0 15px;
+	min-width: 1002px;
+}
+
+.header-top-center{
+	padding: 20px 0 15px;
+	max-width: 938px;
+	margin: 0 auto;
+}
+
+.logo{
+	float:left;
+}
+
+.search{
+	float: left;
+	width: 360px;
+    padding: 20px 20px 10px;
+}
+
+.user{
+    float: right;
+}
+
+.lower-header{
+	background-color: #edecec;
+}
+
+.body-title{
+	background: #2FC1DA;
+	padding-left: 12px;
+	padding-right: 16px;
+	color: white;
+	line-height: 42px;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+.mid-content{
+	float: left;
+	width: 518px;
+	margin-left: 24px;
+}
+
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.left{
+	float:left;
+}
+
+.right{
+	float:right;
+}
+
+
+.footer{
+	background-color: #666666;
+	min-width: 1002px;
+	font-size: 12px;
+	color: white;
+}
+
+
