@@ -1,0 +1,59 @@
+body{
+  background-color:white;
+}
+
+#slider-wrapper{
+  width: 640px;
+  height: 401px;
+  overflow: hidden;
+  margin: 20px auto;
+  position: relative;
+}
+
+
+#slider-wrapper .previous{
+  position: absolute;
+  top: 200px;
+  left: 10px;
+}
+
+#slider-wrapper .previous:hover{
+  background-color: #dadee5;
+}
+
+#slider-wrapper .next:hover{
+  background-color: #dadee5;
+}
+
+#slider-wrapper .next{
+  position: absolute;
+  top: 200px;
+  right: 10px;
+}
+
+#slider-wrapper ul{
+  width: 4000px;
+  height: 500px;
+}
+
+#slider-wrapper ul li{
+  float: left;
+}
+
+#dots{
+  position: absolute;
+  top: 350px;
+  right: 280px
+}
+
+.dot {
+  height: 20px;
+  width: 20px;
+  background-color: gray;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dot:hover{
+  background-color: white;
+}
