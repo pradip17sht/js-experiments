@@ -1,0 +1,40 @@
+.container {
+  height: 500px;
+  width: 1000px;
+  margin: auto;
+  overflow: hidden;
+  border: 2px solid black;
+  border-radius: 10px
+}
+
+.score-board {
+  width: 100px;
+  height: 20px;
+  margin: 5px auto;
+  padding: 2px 4px 0;
+  border-radius: 5px;
+}
+
+.message {
+  width: 500px;
+  background: grey;
+  color: #fffff0;
+  margin:100px auto;
+  padding: 10px 15px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.button {
+  background: black;
+  color: #fffff0;
+  font-size: 14px;
+  margin: 4px;
+  padding: 2px 8px;
+  border: 2px solid #fffff0;
+  border-radius: 4px;
+}
+
+.highlight {
+  color: red;
+}
